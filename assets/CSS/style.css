@@ -20,11 +20,12 @@ footer{
 }
 
 .div-1{
-    background-color: rgba(240, 236, 152, 0.303);
-    padding: 1px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+  background-color: rgba(240, 236, 152, 0.303);
+  border-top: 3px solid rgba(232, 214, 95, 0.644);
+  padding: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
     
 }
 
