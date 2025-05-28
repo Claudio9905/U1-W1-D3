@@ -1,0 +1,98 @@
+main{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+footer{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#logo{
+    width: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2em;
+}
+
+.div-1{
+    background-color: rgba(240, 236, 152, 0.303);
+    padding: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.top-title{
+    font-size: 1.1em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(11, 83, 59, 0.718);
+}
+
+
+#main-title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#focaccia{
+    width: 100%;
+    border-radius: 0.6em;
+    box-shadow: 1px 1px 7px 0px black
+}
+
+.div-2 p{
+    font-size: 1.2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(73, 71, 71, 0.57);
+
+}
+
+.div-3{
+    width: 100%;
+    border-left: 2px solid rgba(239, 239, 7, 0.734);
+    margin-bottom: 5em;
+    text-align: left;
+    padding-left: 1em;
+}
+
+.div-3 h3{
+    color: rgba(213, 17, 17, 0.69);
+}
+
+.div-3 a{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.div-4 h2{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.first-line{
+    border-bottom: 2px solid rgba(109, 221, 184, 0.382);
+}
+
+.second-line{
+    border-bottom: 2px solid rgba(109, 221, 184, 0.382);
+}
+
+.ingredients{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div-5 h2{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div-5{
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
